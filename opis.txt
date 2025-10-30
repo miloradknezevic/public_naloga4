@@ -1,0 +1,1 @@
+Moje ime je Milorad. To je moj prvi Git repozitorij.

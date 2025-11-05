@@ -1,1 +1,1 @@
-Moje ime je Milorad. To je moj prvi Git repozitorij.
+Moje ime je Milorad Knežević. To je moj prvi git repozitorij.
